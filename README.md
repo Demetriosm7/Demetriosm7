@@ -1,3 +1,4 @@
-Hi, I'm Demetrios and I'm wokring towards a full-time career in Web Design/Development.
+Hi, I'm Demetrios Michael and I'm working towards a career as Full Stack Web Design/Developer.
 I'm always interested in collaborating & helping others on projects.
-My portfolio is listed here: https://demetriosm7.github.io/, so feel free to contact me @ demetriosm7@gmail.com If you think that I can contribute to a project.
+You can take a look at my protfolio at https://demetriosm7.github.io/.
+Feel free to contact me at demetriosm7@gmail.com if you feel that I can contribute to a project.
